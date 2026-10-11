@@ -21,7 +21,7 @@ export default function Navbar() {
           href="/"
           className="text-xl sm:text-2xl font-bold tracking-[0.25em] uppercase text-black hover:opacity-80 transition-opacity"
         >
-          KORVAE
+          TRIUMPHANT GLASS
         </Link>
 
         {/* Desktop Nav Links */}
